@@ -1,5 +1,5 @@
 body {
-    background: #f4f4f4;
+    background: #e3e3e3;
     color: #757575;
     font-family: 'Alegreya Sans', sans-serif;
     letter-spacing: 2px;
@@ -39,10 +39,10 @@ body {
 
 
 .container {
-    background: #fff;
+    background: #00C5C5;
     padding: 70px 75px;
     margin-top: -60px;
-    border: 1px solid #a5d4fc;
+    /*border: 1px solid #a5d4fc;*/
 }
 
 img {
@@ -53,9 +53,7 @@ img {
     border-radius: 10px;
 }
 
-hr {
-    margin: 40px 0;
-}
+
 
 h1 {
     font-size: 2em;
@@ -67,8 +65,7 @@ h1 {
 
 h2 {
     font-size: 1.3em;
-    background: #D1E1E5;
-    color: #265B6A;
+
     padding: 10px;
 }
 
@@ -89,6 +86,17 @@ a {
     font-weight: lighter;
     letter-spacing: 1px;
     font-size: 16px;
+
+}
+a{
+  color: #9AC96F;
+}
+a:hover{
+  color: #9AC96F;
+}
+
+.signature{
+  color: #00C5C5;
 }
 
 li {
@@ -153,12 +161,57 @@ blockquote {
     text-align: right;
 }
 
-footer p,
-footer a {
-    font-size: 13px;
+
+footer{
+    background: #333333;
+    color: #f4f4f4;
+    padding-top: 20px;
 }
 
 
 .header-well{
   background: #265B6A;
+  color: #D1E1E5;
+
 }
+
+/*.leftbody-well{
+  background: #D8D6C3;
+}*/
+
+.statement-well{
+  background: #265B6A;
+  color: #D1E1E5;
+}
+
+.education-well{
+  background: #265B6A;
+  color: #D1E1E5;
+}
+
+.job-well{
+  background: #265B6A;
+  color: #D1E1E5;
+}
+
+/*.mainright-well{
+  background: #D8D6C3;
+}*/
+
+.technical-well{
+  background: #265B6A;
+  color: #D1E1E5;
+}
+
+.award-well{
+  background: #265B6A;
+  color: #D1E1E5;
+}
+
+.testimonials-well{
+  background: #265B6A;
+  color: #D1E1E5;
+}
+
+.footer-well{
+  }
