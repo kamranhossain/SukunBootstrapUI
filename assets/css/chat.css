@@ -1,0 +1,8 @@
+.chatbox{
+  overflow-y: scroll;
+  max-height: 400px;
+}
+
+.panel-footer{
+  margin: auto;
+}
