@@ -179,7 +179,22 @@ footer{
   background: #D8D6C3;
 }*/
 
-.statement-well{
+.personal-well{
+  background: #265B6A;
+  color: #D1E1E5;
+}
+
+.family-well{
+  background: #265B6A;
+  color: #D1E1E5;
+}
+
+
+/*.mainright-well{
+  background: #D8D6C3;
+}*/
+
+.religious-well{
   background: #265B6A;
   color: #D1E1E5;
 }
@@ -189,29 +204,11 @@ footer{
   color: #D1E1E5;
 }
 
-.job-well{
-  background: #265B6A;
-  color: #D1E1E5;
-}
-
-/*.mainright-well{
-  background: #D8D6C3;
-}*/
-
-.technical-well{
-  background: #265B6A;
-  color: #D1E1E5;
-}
-
-.award-well{
-  background: #265B6A;
-  color: #D1E1E5;
-}
-
-.testimonials-well{
+.lookingfor-well{
   background: #265B6A;
   color: #D1E1E5;
 }
 
 .footer-well{
-  }
+
+}
