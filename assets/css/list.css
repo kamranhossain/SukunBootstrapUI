@@ -33,7 +33,7 @@ body {
 
 
 
-.well-sm{
+.li-well{
   background: #FFAAAA;
   color: #675050;
   border-radius: 20px;
@@ -46,9 +46,11 @@ ul
 
 .ul-well{
   background: #D46A6A;
-};
+  min-height: 600px;
+  max-height: 100%;
+}
 .seeMoreButton{
-  margin-top: 20px;
+  margin-top:20px;
 }
 
 img{
